@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "export/my-alarm-clock.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
