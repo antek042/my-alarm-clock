@@ -12,17 +12,17 @@ It uses NTP servers to get correct time, it can bring you some information like 
 The top of case and bottom fits together using 4 M3 bolts. For PCB it's also 4 M3 bolt and for the screen it's 2 M2 bolts.
 It was made in Fusion360.
 
-<img src="photos/case.png alt="case" width="500"/>
+<img src="photos/case.png" alt="case" width="500"/>
 
 ## PCB
 The PCB was designed in KiCad. I added some 3D models to make the visualization more closely resemble how the PCB will look in the real world.
 This also makes the CAD design process easier.
 
 Schematic
-<img src="photos/schematic.png alt="Schematic" width="350"/>
+<img src="photos/schematic.png" alt="Schematic" width="350" />
 
 PCB
-<img src="photos/pcb.png alt="PCB" width="350"/>
+<img src="photos/pcb.png" alt="PCB" width="350"/>
 
 ## Firmware
 I've used Arduino framework to make software designing process more easier.
