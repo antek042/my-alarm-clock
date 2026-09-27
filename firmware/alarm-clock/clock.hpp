@@ -1,7 +1,11 @@
+#include "Arduino.h"
+#include <WiFi.h>
+#include "time.h"
 #include <string>
 #include <optional>
 
 class Clock {
+public:
         Clock();
         std::optional<tm> get_current_time();
 

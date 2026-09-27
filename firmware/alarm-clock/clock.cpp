@@ -1,7 +1,7 @@
-#include <inc/clock.hpp>
+#include <clock.hpp>
 
 Clock::Clock() {
-        configTzTime(posixTimeZone, ntpServerAddress);
+        configTzTime(posixTimeZone, ntpServerAddress.c_str());
 }
 
 std::optional<tm> Clock::get_current_time() {
