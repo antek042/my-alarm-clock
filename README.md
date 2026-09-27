@@ -19,9 +19,11 @@ The PCB was designed in KiCad. I added some 3D models to make the visualization 
 This also makes the CAD design process easier.
 
 Schematic
+
 <img src="photos/schematic.png" alt="Schematic" width="350" />
 
 PCB
+
 <img src="photos/pcb.png" alt="PCB" width="350"/>
 
 ## Firmware
